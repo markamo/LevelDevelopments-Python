@@ -11,7 +11,11 @@ pip install pyserial
 ```
 
 ## Usage
+
+```python
 python readinclinometer.py
+
+```
 
 ## References for this python script
 - [Product page](https://www.leveldevelopments.com/products/inclinometers/inclinometer-sensors/dual-axis-inclinometer-sensors/lc-series/lch-45-inclinometer-sensor-dual-axis-45-rs232-output/)
